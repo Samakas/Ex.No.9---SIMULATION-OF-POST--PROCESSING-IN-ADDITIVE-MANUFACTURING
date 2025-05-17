@@ -34,24 +34,24 @@
 ## OUTPUT :
 
 ## Support Removal Process
-
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post1.png)
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post2.png)
+![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
+![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
 
 ## UV Curing of 3D printed part
-
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post3.png)
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post4.png)
+![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
+![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
 
 ## Heat Treatment of 3D printed part
+![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
+![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post5.png)
-![image](https://github.com/Ashera2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post6.png)
-
+## Output:
+![image](https://github.com/user-attachments/assets/6ce74943-ceed-458b-8a3c-cc8298d6c008)
+![image](https://github.com/user-attachments/assets/8d8b85d8-18a4-4428-8829-03d29c6696b4)
+![image](https://github.com/user-attachments/assets/f3c63207-634d-4591-8e0f-0a8a36d95a68)
 
 ### Name: Samakash R S
-### Register Number: 212223230182
+### Register Number:212223230182
 
 ## Result: 
-
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
